@@ -1,4 +1,5 @@
 // =======Options START=======
+// Edit to yours bro
 var authConfig = {
   siteName: "GoIndex-theme-acrou", // 网站名称
   version: "1.1.2", // 程序版本
@@ -65,7 +66,7 @@ var authConfig = {
 };
 
 var themeOptions = {
-  cdn: "https://cdn.jsdelivr.net/gh/Aicirou/goindex-theme-acrou",
+  cdn: "https://cdn.jsdelivr.net/gh/devdahyuk/goindex-theme-acrou",
   // 主题版本号
   version: "2.0.8",
   //可选默认系统语言:en/zh-chs/zh-cht
